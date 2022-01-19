@@ -52,6 +52,8 @@ Python 3.x
 - dash_html_components
 - plotly
 
+`scr` folder has both the app (py script) & `pandas` pickled data.
+
 # screenshot
 ## Main Screen
 It lists total hotels & chain.
